@@ -1,6 +1,6 @@
 {
   "name": "@danieldx/jasmine-xml2html-converter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publishConfig": {
     "access": "public"
   },
@@ -19,6 +19,7 @@
     "html report"
   ],
   "dependencies": {
+    "@danieldx/jasmine-xml2html-converter": "^0.1.0",
     "moment": "^2.29.1",
     "xmldoc": "~0.3.0"
   }
